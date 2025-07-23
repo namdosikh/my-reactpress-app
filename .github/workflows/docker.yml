@@ -17,4 +17,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: namdosikh/my-reactpress-app:broken-2
+          tags: namdosikh/my-reactpress-app:broken-3
