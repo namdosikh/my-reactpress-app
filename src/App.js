@@ -14,7 +14,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is a broken version of my Docker Image.</p>
+        <p>
+          This is a broken version of my Docker Image to help Imam identify the
+          differences of my image tags.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
